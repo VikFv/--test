@@ -1,0 +1,42 @@
+{
+  "name": "Ананасовый улун",
+  "mainPic": "https://media.teaboom.ru/images/e4bb1618-fb80-41e2-8758-86f884ce095d.jpg",
+  "previewPics": [
+    "https://media.teaboom.ru/images/e4bb1618-fb80-41e2-8758-86f884ce095d.jpg",
+    "https://media.teaboom.ru/images/e4bb1618-fb80-41e2-8758-86f884ce095d.jpg"
+  ],
+  "packages": [
+    {
+        "id": 1,
+        "weight": "100 г",
+        "SKU": "01306",
+        "newPrice": "326,40 ₽",
+        "oldPrice": "349.20 ₽",
+        "availability": "Много"
+    },
+    {
+        "id": 2,
+        "weight": "500 г",
+        "SKU": "01307",
+        "newPrice": "1432,00 ₽",
+        "oldPrice": "1646.00 ₽",
+        "availability": "Много"
+    },
+    {
+        "id": 3,
+        "weight": "1000 г",
+        "SKU": "01308",
+        "newPrice": "2064,00 ₽",
+        "oldPrice": "2592.00 ₽",
+        "availability": "Много"
+    },
+    {
+        "id": 4,
+        "weight": "5000 г",
+        "SKU": "01309",
+        "newPrice": "6320,00 ₽",
+        "oldPrice": "8710.00 ₽",
+        "availability": "Много"
+    }
+  ]
+}
